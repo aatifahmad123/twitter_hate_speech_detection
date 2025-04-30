@@ -124,4 +124,4 @@ Visit [http://localhost:9002](http://localhost:9002) in your browser.
 ## Author
 
 **Aatif Ahmad**  
-[GitHub](https://github.com/aatifahmad123)
+[b22ai002@iitj.ac.in](mailto:b22ai002@iitj.ac.in)
